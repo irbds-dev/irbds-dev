@@ -3,13 +3,13 @@
 
 
 <h3 align="left">
-  <img src="" width="10">
+  <img src="✳️" width="10">
       Pronomes: ele | dele :man_in_tuxedo: <br> 
-  <img src="" width="10">
+  <img src="✳️" width="10">
       Analise e desenvolvimento de sistemas :mortar_board: <br>
-  <img src="" width="10">
+  <img src="✳️" width="10">
       Jandira, Brazil :city_sunset: <br>
-  <img src="" width="10">
+  <img src="✳️" width="10">
       Arch BTW :penguin: <br><br>
 </h3> 
 
